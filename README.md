@@ -161,10 +161,3 @@ src/
 4. Test thoroughly
 5. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License.
-
-## Support
-
-For support and questions, please contact the development team or create an issue in the repository.
